@@ -110,7 +110,6 @@
 
      <h2 style="color:#BD93F9">wallpapers</h2>
      <ul>
-       <li><a href="https://www.reddit.com/user/505baker/m/wall/" target="_blank" rel="noopener noreferrer" style="color:#F8F8F2">reddit</a></li>
        <li><a href="https://unsplash.com/" target="_blank" rel="noopener noreferrer" style="color:#F8F8F2">unsplash</a></li>
        <li><a href="https://boards.4chan.org/wg/" target="_blank" rel="noopener noreferrer" style="color:#F8F8F2">/wg/</a></li>
        <li><a href="https://wallhaven.cc/search?categories=100&purity=100&atleast=1920x1080&ratios=landscape&sorting=date_added&order=desc" target="_blank" rel="noopener noreferrer" style="color:#F8F8F2">wallhaven</a></li>
