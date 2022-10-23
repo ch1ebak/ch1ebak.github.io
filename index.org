@@ -90,6 +90,20 @@
 
 #+end_src
 
+*** Football
+
+#+begin_src html
+
+     <h2 style="color:#BD93F9">football</h2>
+     <ul>
+       <li><a href="https://www.sofascore.com/team/football/manchester-city/17" target="_blank" rel="noopener noreferrer" style="color:#F8F8F2">man city</a></li>
+       <li><a href="https://www.sofascore.com/team/football/lech-poznan/3121" target="_blank" rel="noopener noreferrer" style="color:#F8F8F2">lech</a></li>
+       <li><a href="https://soccerstreams.net/" target="_blank" rel="noopener noreferrer" style="color:#F8F8F2">soccerstreams</a></li>
+       <li><a href="https://sofifa.com/?r=220069&set=true" target="_blank" rel="noopener noreferrer" style="color:#F8F8F2">sofifa</a></li>
+     </ul>
+
+#+end_src
+
 *** Tools
 
 #+begin_src html
