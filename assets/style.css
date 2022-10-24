@@ -2,7 +2,7 @@ html {
   /* background-color: #282a36; */
   color:#f8f8f2
   font-size: 16px; /* px means "pixels": the base font size is now 10 pixels high */
-  font-family: "JetBrains Mono", sans-serif; /* this should be the rest of the output you got from Google Fonts */
+  font-family: "JetBrains Mono"; /* this should be the rest of the output you got from Google Fonts */
 }
 
 body {
