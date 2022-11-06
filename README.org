@@ -1,3 +1,5 @@
 a very simple dracula themed startpage. learning html.
 
+now also with nord and gruvbox. still learning how to change the website's theme using the website itself.
+
 [[https://raw.githubusercontent.com/ch1ebak/ch1ebak.github.io/main/assets/dracula's-simple-startpage.png]]
