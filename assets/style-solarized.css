@@ -1,0 +1,41 @@
+html {
+  background-color: #002B36;
+  color:#BBC2CF
+  font-size: 16px; /* px means "pixels": the base font size is now 10 pixels high */
+  font-family: "JetBrains Mono"; /* this should be the rest of the output you got from Google Fonts */
+}
+
+body {
+  margin: 0 auto;
+  background-color: #002B36;
+  padding: 0 20px 20px 20px;
+}
+
+h1 {
+  font-size: 22px;
+  color:#b58900;
+  line-height: 2;
+  margin: 1;
+  padding: 0;
+  text-shadow: 3px 3px 1px black;
+}
+
+h2 {
+  font-size: 15px;
+  color:#859900;
+  line-height: 2;
+  margin: 1;
+  padding: 0;
+}
+
+ul,
+p,
+a,
+li {
+  font-size: 14px;
+  color:#BBC2CF;
+  line-height: 2;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
